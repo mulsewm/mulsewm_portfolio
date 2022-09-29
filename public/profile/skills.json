@@ -30,13 +30,14 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
+                {
+                    "icon": "images/skills/ci.png",
+                    "title": "CodeIgniter"
+                },
+              
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
@@ -47,8 +48,8 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/vscode.png",
+                    "title": "Visual Studio Code"
                 },
                 {
                     "icon": "images/skills/git.png",
